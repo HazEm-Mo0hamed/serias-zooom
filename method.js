@@ -67,7 +67,7 @@ calcalte(10,5,"divid")
 calcalte(10,5,"calma")
 
 
-var degree=3
+var degree=4
 
 switch (degree) {
   case 1:
@@ -85,7 +85,7 @@ switch (degree) {
 
   default:
     console.log("with out degree");
-    break;
+
 }
 
 /**
