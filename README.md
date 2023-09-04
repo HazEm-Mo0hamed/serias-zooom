@@ -118,33 +118,6 @@ switch (degree) {
 
  **ternary operators**
  ```javascript
-/**
- * sunday=10
- * sutrday=9
- * monday=9
- * tusday=8
- * wenstday=8
- * thusrsday=7
- * friday=7
- */
- var alrams =8
-switch (alrams) {
-    case 10:
-        console.log("sunday");
-        break;
-    case 9:
-        console.log("sutrady & monady" );
-        break;
-    case 8:
-        console.log("tudsay & wensday");
-        break;
-    case 7:
-        console.log("thursday& friday");
-        break;
-
-    default:
-        break;
-}
 
 
 var hero= {
@@ -164,5 +137,4 @@ console.log(` hola ${result2} ${hero.name}`);
  :hero.age>20 && hero.age<40
  ?console.log("youth")
  :console.log("old");   
- 
- ```
+
