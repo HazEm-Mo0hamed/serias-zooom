@@ -115,6 +115,7 @@ switch (alrams) {
         break;
 
     default:
+      console.log("unkown time");
         break;
 }
 
